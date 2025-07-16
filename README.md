@@ -14,8 +14,8 @@
 ## 📈 LeetCode
 
 <div align="center">
-  <a href="https://leetcode.com/u/user6783hS/">
-    <img src="https://leetcode.card.workers.dev/user6783hS?theme=dark&font=baloo" height="150" />
+  <a href="https://leetcode.com/u/vinitshirbhate/">
+    <img src="https://leetcode.card.workers.dev/vinitshirbhate?theme=dark&font=baloo" height="150" />
   </a>
 </div>
 
