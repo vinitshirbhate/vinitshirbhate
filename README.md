@@ -108,13 +108,13 @@
 ###
 
 <div align="center">
-  <a href="odasity#4203" target="_blank">
+  <!-- <a href="odasity#4203" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="35" alt="discord logo"  />
-  </a>
-  <a href="vinit.shirbhate@gmail.com" target="_blank">
+  </a> -->
+  <a href="mailto:vinit.shirbhate@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/vinit-shirbhate-152ab3297/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinitshirbhate" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/ShirbhateV77644" target="_blank">
